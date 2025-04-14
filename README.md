@@ -4,3 +4,5 @@ Conducted CFD simulations in ANSYS Fluent to analyze the aerodynamics of ventila
 ![image alt](https://github.com/Chalangana/Test/blob/46595df3e24dfda4bab719eaa3f2b91a74d03dd9/Screenshot%202024-12-15%20204455.png)
 
 ![image alt](https://github.com/Chalangana/Test/blob/fd93baecc95db659bfdd3ee23f198d2ba2dbe4db/Screenshot%202024-12-15%20203036.png)
+
+![image alt](https://github.com/Chalangana/Test/blob/e50359d357b2b51b71cc2dad7cd99da2f532591d/Screenshot%202024-12-15%20201127.png)
